@@ -1,4 +1,4 @@
 # first-code
 this is first demo code
 <br>
-author : ketan dayke
+author : ketan (dayke)
